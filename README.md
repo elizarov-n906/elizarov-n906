@@ -1,95 +1,106 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:7C3AED,100:EF4444&text=elizarov-n906&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=WordPress%20Dev%20%7C%20AI%20%7C%20Parsing%20%7C%20WPGrabber&descSize=18&descAlignY=58&animation=fadeIn)
+=== ТИПЫ ФОРМ (type) ===
 
-<div align="center">
+1. wave
+https://capsule-render.vercel.app/api?type=wave&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=400&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Developing+WordPress+plugins;Building+tools+for+AI+and+Parsing;Creating+integrations+with+WPGrabber)
+2. waving
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-<br>
+3. shark
+https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-[![Website](https://img.shields.io/badge/Website-zaplata.ru-brightgreen?style=flat-square)](https://zaplata.ru/)
-[![Email](https://img.shields.io/badge/Email-927138@mail.ru-brightgreen?style=flat-square&logo=gmail&logoColor=white)](mailto:927138@mail.ru)
+4. rounded
+https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-</div>
+5. slice
+https://capsule-render.vercel.app/api?type=slice&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
----
+6. rect
+https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-## About
+7. cylinder
+https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-I am a WordPress developer focused on creating plugins, parsing tools, and AI-driven automations. I specialize in building robust integrations using WPGrabber and developing custom solutions for shared hosting environments.
+8. ellipse
+https://capsule-render.vercel.app/api?type=ellipse&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-Я WordPress-разработчик, специализирующийся на создании плагинов, инструментов для парсинга и автоматизации с использованием ИИ. Разрабатываю надежные интеграции на базе WPGrabber и создаю индивидуальные решения для работы на обычном шаред-хостинге.
+9. triangle
+https://capsule-render.vercel.app/api?type=triangle&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-```php
-<?php
-$developer = new Developer();
-$developer->focus = ['WordPress', 'AI Integration', 'Web Parsing', 'WPGrabber', 'Plugin Development'];
-$developer->mission = 'Build reliable tools that simplify content automation';
-?>
-```
+10. translucent
+https://capsule-render.vercel.app/api?type=translucent&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
----
+11. fold
+https://capsule-render.vercel.app/api?type=fold&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-## Featured Work
+12. curve
+https://capsule-render.vercel.app/api?type=curve&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-<div align="center">
+13. cloud
+https://capsule-render.vercel.app/api?type=cloud&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elizarov-n906&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elizarov-n906&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316)
+14. blur
+https://capsule-render.vercel.app/api?type=blur&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-</div>
 
-| Project | Description |
-| :--- | :--- |
-| **REPO_NAME_1** | Advanced parsing module for WPGrabber. |
-| **REPO_NAME_2** | AI-powered content generator plugin. |
+=== АНИМАЦИИ (animation) ===
 
----
+1. fadeIn
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906&animation=fadeIn
 
-## Toolbox
+2. scaleIn
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906&animation=scaleIn
 
-<div align="center">
+3. blurIn
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906&animation=blurIn
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+4. spin
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906&animation=spin
 
-</div>
+5. fadeInScale
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906&animation=fadeInScale
 
----
+6. bounce
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906&animation=bounce
 
-## Current Focus
+7. wave
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906&animation=wave
 
-- Developing specialized plugins for WordPress and WPGrabber.
-- Integrating AI models into content parsing workflows.
-- Optimizing performance for shared hosting environments.
-- Building reliable data extraction and automation tools.
 
----
+=== ТИПЫ ГРАДИЕНТОВ (color) ===
 
-## GitHub Activity
+1. Один цвет
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0EA5E9&text=elizarov-n906
 
-<div align="center">
+2. Двухцветный градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:7C3AED&text=elizarov-n906
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizarov-n906&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizarov-n906&theme=tokyonight&utcOffset=3)
-<br><br>
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=elizarov-n906&theme=tokyonight&hide_border=true&background=0D1117)
+3. Трехцветный градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,45:7C3AED,100:EF4444&text=elizarov-n906
 
-</div>
+4. Автоматический градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=elizarov-n906
 
----
+5. Градиент по времени суток
+https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=elizarov-n906
 
-## Connect With Me
 
-<div align="center">
+=== ПОПУЛЯРНЫЕ ЦВЕТОВЫЕ СХЕМЫ ===
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Blog](https://img.shields.io/badge/Blog-zaplata.ru-F97316?style=flat-square&logo=blogger&logoColor=white)](https://zaplata.ru/)
+1. Синий градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,100:3B82F6&text=elizarov-n906
 
-</div>
+2. Фиолетовый градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,100:A855F7&text=elizarov-n906
 
----
+3. Красный градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:EF4444,100:F97316&text=elizarov-n906
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EF4444,45:7C3AED,100:0EA5E9&section=footer)
+4. Зеленый градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:10B981,100:059669&text=elizarov-n906
+
+5. Темный градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2937,100:111827&text=elizarov-n906
+
+6. Радужный градиент
+https://capsule-render.vercel.app/api?type=waving&height=200&color=0:EF4444,25:F97316,50:EAB308,75:22C55E,100:3B82F6&text=elizarov-n906
