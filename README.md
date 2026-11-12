@@ -1,16 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:7C3AED,100:EF4444&text=elizarov-n906&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=WordPress%20Dev%20%7C%20AI%20%7C%20Parsing%20%7C%20WPGrabber&descSize=18&descAlignY=58&animation=fadeIn)
-
 <div align="center">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=400&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Developing+WordPress+plugins;Building+tools+for+AI+and+Parsing;Creating+integrations+with+WPGrabber)
-
 <br>
-
 [![Website](https://img.shields.io/badge/Website-zaplata.ru-brightgreen?style=flat-square)](https://zaplata.ru/)
 [![Email](https://img.shields.io/badge/Email-927138@mail.ru-brightgreen?style=flat-square&logo=gmail&logoColor=white)](mailto:927138@mail.ru)
-
 </div>
-
 ---
 
 ## About
