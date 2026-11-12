@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:7C3AED,100:EF4444&text=ВАШЕ_ИМЯ&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=WordPress%20Dev%20%7C%20AI%20%7C%20Parsing%20%7C%20WPGrabber&descSize=18&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:7C3AED,100:EF4444&text=elizarov-n906&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=WordPress%20Dev%20%7C%20AI%20%7C%20Parsing%20%7C%20WPGrabber&descSize=18&descAlignY=58&animation=fadeIn)
 
 <div align="center">
 
@@ -6,9 +6,8 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ВАШ_НИКНЕЙМ&style=flat-square&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/ВАШ_НИКНЕЙМ?style=flat-square&logo=github)
-![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=flat-square&logo=gmail&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-zaplata.ru-brightgreen?style=flat-square)](https://zaplata.ru/)
+[![Email](https://img.shields.io/badge/Email-927138@mail.ru-brightgreen?style=flat-square&logo=gmail&logoColor=white)](mailto:927138@mail.ru)
 
 </div>
 
@@ -17,6 +16,8 @@
 ## About
 
 I am a WordPress developer focused on creating plugins, parsing tools, and AI-driven automations. I specialize in building robust integrations using WPGrabber and developing custom solutions for shared hosting environments.
+
+Я WordPress-разработчик, специализирующийся на создании плагинов, инструментов для парсинга и автоматизации с использованием ИИ. Разрабатываю надежные интеграции на базе WPGrabber и создаю индивидуальные решения для работы на обычном шаред-хостинге.
 
 ```php
 <?php
