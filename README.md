@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:7C3AED,100:EF4444&text=elizarov-n906&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=WordPress%20Dev%20%7C%20AI%20%7C%20Parsing%20%7C%20WPGrabber&descSize=18&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:10B981,100:059669&text=elizarov-n906&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=WordPress%20Dev%20%7C%20AI%20%7C%20Parsing%20%7C%20WPGrabber&descSize=18&descAlignY=58&animation=fadeIn)
 
 <div align="center">
 
@@ -19,13 +19,11 @@ I am a WordPress developer focused on creating plugins, parsing tools, and AI-dr
 
 Я WordPress-разработчик, специализирующийся на создании плагинов, инструментов для парсинга и автоматизации с использованием ИИ. Разрабатываю надежные интеграции на базе WPGrabber и создаю индивидуальные решения для работы на обычном шаред-хостинге.
 
-```php
-<?php
-$developer = new Developer();
-$developer->focus = ['WordPress', 'AI Integration', 'Web Parsing', 'WPGrabber', 'Plugin Development'];
-$developer->mission = 'Build reliable tools that simplify content automation';
-?>
-```
+    <?php
+    $developer = new Developer();
+    $developer->focus = ['WordPress', 'AI Integration', 'Web Parsing', 'WPGrabber', 'Plugin Development'];
+    $developer->mission = 'Build reliable tools that simplify content automation';
+    ?>
 
 ---
 
@@ -33,15 +31,15 @@ $developer->mission = 'Build reliable tools that simplify content automation';
 
 <div align="center">
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elizarov-n906&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elizarov-n906&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elizarov-n906&repo=НАЗВАНИЕ_РЕПОЗИТОРИЯ_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elizarov-n906&repo=НАЗВАНИЕ_РЕПОЗИТОРИЯ_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316)
 
 </div>
 
 | Project | Description |
 | :--- | :--- |
-| **REPO_NAME_1** | Advanced parsing module for WPGrabber. |
-| **REPO_NAME_2** | AI-powered content generator plugin. |
+| **[НАЗВАНИЕ_РЕПОЗИТОРИЯ_1]** | Short description. Example: Advanced parsing module for WPGrabber. |
+| **[НАЗВАНИЕ_РЕПОЗИТОРИЯ_2]** | Short description. Example: AI-powered content generator plugin. |
 
 ---
 
@@ -85,11 +83,11 @@ $developer->mission = 'Build reliable tools that simplify content automation';
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ВАШ_НИК_В_ТЕЛЕГРАМ)
 [![Blog](https://img.shields.io/badge/Blog-zaplata.ru-F97316?style=flat-square&logo=blogger&logoColor=white)](https://zaplata.ru/)
 
 </div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EF4444,45:7C3AED,100:0EA5E9&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10B981,100:059669&section=footer)
