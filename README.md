@@ -22,7 +22,7 @@ I am a WordPress developer focused on creating plugins, parsing tools, and AI-dr
     <?php
     $developer = new Developer();
     $developer->focus = ['WordPress', 'AI Integration', 'Web Parsing', 'WPGrabber', 'Plugin Development'];
-    $developer->mission = 'Build reliable tools that simplify content automation';
+    $developer->mission = 'Создаю надежные инструменты, упрощающие автоматизацию контента';
     ?>
 
 
