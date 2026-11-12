@@ -17,7 +17,8 @@
 
 I am a WordPress developer focused on creating plugins, parsing tools, and AI-driven automations. I specialize in building robust integrations using WPGrabber and developing custom solutions for shared hosting environments.
 
-Я WordPress-разработчик, специализирующийся на создании плагинов, инструментов для парсинга и автоматизации с использованием ИИ. Разрабатываю надежные интеграции на базе WPGrabber и создаю индивидуальные решения для работы на обычном шаред-хостинге.
+Я WordPress-разработчик, специализирующийся на создании плагинов, инструментов для парсинга и автоматизации с использованием ИИ. 
+Разрабатываю надежные интеграции на базе WPGrabber и создаю индивидуальные решения для работы.
 
     <?php
     $developer = new Developer();
