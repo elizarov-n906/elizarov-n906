@@ -25,7 +25,4 @@ I am a WordPress developer focused on creating plugins, parsing tools, and AI-dr
     $developer->mission = 'Build reliable tools that simplify content automation';
     ?>
 
----
-
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10B981,100:059669&section=footer)
