@@ -1,16 +1,14 @@
-## Hi there 👋
+# elizarov-n906
 
-<!--
-**elizarov-n906/elizarov-n906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Краткое профессиональное резюме. Например: Ведущий R&D специалист, разработчик и исследователь.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основная деятельность
+
+Я занимаюсь разработкой и исследованием в области искусственного интеллекта, автоматизацией процессов и созданием инструментов для разработчиков. Мне нравится создавать программное обеспечение, которое устраняет рутину и делает повседневную разработку быстрее.
+
+```text
+Developer := TProfessional.Create;
+Developer.Focus := ['AI', 'Rust', 'Автоматизация', 'Чистый код'];
+Developer.Mission := 'Создавать полезные инструменты, которые работают надежно';
